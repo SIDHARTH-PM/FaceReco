@@ -1,0 +1,1 @@
+Our project deals with the task to identify a human face from a CCTV camera with the help of computer vision. If CCTV camera frame contains multiple faces , then developed model must have capability to recognize all the faces in a frame. After recognition of faces developed ,Software will return face identity and date and time of recognition in a csv file. 
